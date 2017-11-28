@@ -11,4 +11,6 @@ To add soon:
  - setting domains of objects
  - accessing data with asarray and advanced slicing
  - AnalogSignalArrays vs BinnedSpikeTrainArrays, and moving between them
+ - Saving and loading results
+ - nelpy FigureContextManager to skip over expensive cells
  - ...
