@@ -1,6 +1,8 @@
 # Tutorials
 Several short tutorials demonstrating specific objects, features, or patterns commonly used in nelpy.
 
+If you plan to view these notebooks online, we recommend you to use `nbviewer`, which has a much better rendering engine than `github`. You can access this repository at http://nbviewer.jupyter.org/github/nelpy/tutorials .
+
 ## Selected tutorials
 The tutorials should be followed roughly in order.
   * [**WhirlwindTour**.ipynb](../master/WhirlwindTour.ipynb)—quick overview and simple examples demonstrating the nelpy object model. Start here!
