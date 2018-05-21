@@ -8,7 +8,7 @@ The tutorials should be followed roughly in order.
   *  [**AnalogSignalArrayTutorial**.ipynb](../master/AnalogSignalArrayTutorial.ipynb)—a closer look at the `AnalogSignalArray` object.
   * more coming soon!
 
-##Coming soon-ish
+## Coming soon-ish
 To add soon:
  - working with contiguous but disjoint epochs (and what to do if your epochs are not disjoint)
  - fixing up a falsely discontinuous object with merge
