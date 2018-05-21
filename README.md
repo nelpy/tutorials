@@ -1,6 +1,13 @@
-# tutorials
-Tutorials demonstrating specific features or patterns commonly used in nelpy.
+# Tutorials
+Several short tutorials demonstrating specific objects, features, or patterns commonly used in nelpy.
 
+## Tutorials include:
+* [**WhirlwindTour**.ipynb](../master/WhirlwindTour.ipynb)—quick overview and simple examples demonstrating the nelpy object model. Start here!
+  *  [**EpochArrayTutorial**.ipynb](../master/EpochArrayTutorial.ipynb)—a closer look at the `EpochArrays` object.
+  *  [**AnalogSignalArrayTutorial**.ipynb](../master/AnalogSignalArrayTutorial.ipynb)—a closer look at the `AnalogSignalArray` object.
+  * more coming soon!
+
+##Coming soon-ish
 To add soon:
  - working with contiguous but disjoint epochs (and what to do if your epochs are not disjoint)
  - fixing up a falsely discontinuous object with merge
