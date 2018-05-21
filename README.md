@@ -1,8 +1,9 @@
 # Tutorials
 Several short tutorials demonstrating specific objects, features, or patterns commonly used in nelpy.
 
-## Tutorials include:
-* [**WhirlwindTour**.ipynb](../master/WhirlwindTour.ipynb)—quick overview and simple examples demonstrating the nelpy object model. Start here!
+## Selected tutorials
+The tutorials should be followed roughly in order.
+  * [**WhirlwindTour**.ipynb](../master/WhirlwindTour.ipynb)—quick overview and simple examples demonstrating the nelpy object model. Start here!
   *  [**EpochArrayTutorial**.ipynb](../master/EpochArrayTutorial.ipynb)—a closer look at the `EpochArrays` object.
   *  [**AnalogSignalArrayTutorial**.ipynb](../master/AnalogSignalArrayTutorial.ipynb)—a closer look at the `AnalogSignalArray` object.
   * more coming soon!
